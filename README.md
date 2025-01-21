@@ -1,5 +1,5 @@
 # Data-Visualization-and-the-Art-of-Storytelling
-n 2021, I left behind my 4-year career as an electrical engineer to explore data analytics. While diving into Python, Kaggle competitions, and advanced technologies like AI and ML, I discovered my true passion: Data Visualization. 
+In 2021, I left behind my 4-year career as an electrical engineer to explore data analytics. While diving into Python, Kaggle competitions, and advanced technologies like AI and ML, I discovered my true passion: Data Visualization. 
 
 I realized many dashboards, including my own, lacked cohesive themes, clear narratives, and the ability to communicate insights independently. This inspired me to combine my technical skills with my lifelong love for art, creating visualizations that tell stories and drive decisions. 
 
